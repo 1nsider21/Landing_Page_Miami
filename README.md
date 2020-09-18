@@ -1,4 +1,4 @@
-# Miami Real Estate - Landing Page
+# Miami Landing Page
 
 The project was created using:
 
@@ -16,4 +16,5 @@ Landing page has the responsive layout for:
 - Tablet 1024
 - Mobile (> 320px)
 
-- [DEMO LINK](https://1nsider21.github.io/Landing_Page_Miami/) |  [Layout](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=0%3A2)
+[DEMO](https://1nsider21.github.io/Landing_Page_Miami/)
+[LAYOUT](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=0%3A2)
